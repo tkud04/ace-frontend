@@ -1,1 +1,2 @@
-# ace-frontend
+# hrm-project
+React project for HRM
